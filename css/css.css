@@ -1,0 +1,68 @@
+body{
+    background-color: rgba(0, 3, 255, 0.05);
+    font-family: 'Baloo Thambi', cursive;
+    font-weight: 300;
+}
+header{
+
+
+}
+header .row,
+footer .row{
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-weight: 700;
+
+    margin:0;
+text-shadow: 5px 5px 5px rgba(240, 128, 128, 0.51);
+color: #f08080;
+
+}
+header nav{
+    display: inline-flex;
+    justify-content: right;
+
+}
+section .row img{
+    margin: 0 0 2.1em;
+    width: 100%;
+}
+h2{
+    font-weight: 700;
+
+    margin:1em;
+    text-shadow: 5px 5px 5px rgba(240, 128, 128, 0.51);
+    color: #f08080;
+}
+.adress{
+    font-family: 'Indie Flower', cursive;
+}
+
+
+
+
+
+footer{
+    font-size: 0.85em;
+
+}
+footer ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+
+}
+
+footer li img{
+    width: 32px;
+    height: 32px;
+}
+
+
+
+
+
+
+
