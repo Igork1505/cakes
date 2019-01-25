@@ -16,7 +16,7 @@ h1{
     font-weight: 700;
 
     margin:0;
-text-shadow: 5px 5px 5px rgba(240, 128, 128, 0.51);
+
 color: #f08080;
 
 }
@@ -33,7 +33,7 @@ h2{
     font-weight: 700;
 
     margin:1em;
-    text-shadow: 5px 5px 5px rgba(240, 128, 128, 0.51);
+
     color: #f08080;
 }
 .adress{
